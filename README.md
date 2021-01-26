@@ -42,7 +42,7 @@ Na ordem abaixo:
 ![img_5.png](img_5.png)
 
 ```
-OBS: Caso ele gere um erro quando executado, exclua o arquivo comene conforme a imagem abaixo
+OBS: Caso ele gere um erro quando executado, comente a função inserindoDados() conforme a imagem abaixo, e execute novamente e os dados serão gerados
 ```
 ![execucutarSemInserirDados.png](execucutarSemInserirDados.png)
 
