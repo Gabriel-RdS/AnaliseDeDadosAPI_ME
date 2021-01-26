@@ -1,0 +1,1 @@
+CREATE database logs_Melhor_Envio
