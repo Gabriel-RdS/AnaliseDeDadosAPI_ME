@@ -40,3 +40,7 @@ Na ordem abaixo:
 **Passo 5: Executar o programa em main.py**
 
 ![img_5.png](img_5.png)
+
+**Passo 6: Arquivos gerados**
+
+![arquivosGerados.png](arquivosGerados.png)
