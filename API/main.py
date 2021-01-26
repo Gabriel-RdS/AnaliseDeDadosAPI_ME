@@ -8,3 +8,8 @@ if __name__ == "__main__":
     requisicoesConsumidor()
     requisicoesServico()
     latencies()
+
+print('Arquivos requisicoesServico.csv\n'
+      'latencies.csv\n'
+      'requisicoesConsumidor\n'
+      'Gerados na pasta API')
