@@ -41,6 +41,11 @@ Na ordem abaixo:
 
 ![img_5.png](img_5.png)
 
+```
+OBS: Caso ele gere um erro quando executado, exclua o arquivo comene conforme a imagem abaixo
+```
+
+
 **Passo 6: Arquivos gerados**
 
 ![arquivosGerados.png](arquivosGerados.png)
