@@ -3,7 +3,7 @@ import pymysql
 
 
 def inserindoDados():
-    conexaoMysqlDB = pymysql.connect(db='teste_', user='root', passwd='Teste@01')
+    conexaoMysqlDB = pymysql.connect(db='logs_melhor_envio', user='root', passwd='Teste@01')
 
     # Cursor Mysql
     cursor = conexaoMysqlDB.cursor()
