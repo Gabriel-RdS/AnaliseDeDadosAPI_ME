@@ -2,7 +2,7 @@
 
 ### Tecnologias
 
-- [Python 3.8.77](https://www.python.org/downloads/release/python-387/)
+- [Python 3.8.7](https://www.python.org/downloads/release/python-387/)
 - [MySQL](https://www.mysql.com/downloads/)
 
 ### Instruções
