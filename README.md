@@ -44,7 +44,7 @@ Na ordem abaixo:
 ```
 OBS: Caso ele gere um erro quando executado, exclua o arquivo comene conforme a imagem abaixo
 ```
-
+![execucutarSemInserirDados.png](execucutarSemInserirDados.png)
 
 **Passo 6: Arquivos gerados**
 
