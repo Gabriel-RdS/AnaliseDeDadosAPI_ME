@@ -1,7 +1,7 @@
 import pymysql
 
 
-conexaoMysqlDB = pymysql.connect(db='logs_teste', user='root', passwd='Teste@01')
+conexaoMysqlDB = pymysql.connect(db='logs_melhor_envio', user='root', passwd='Teste@01')
 
 cursor = conexaoMysqlDB.cursor()
 
